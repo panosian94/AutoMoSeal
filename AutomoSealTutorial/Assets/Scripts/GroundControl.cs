@@ -1,5 +1,9 @@
 ﻿using UnityEngine;
 
+/// <summary>
+/// Ronald was here ;D 
+/// </summary>
+
 
 public class GroundControl : MonoBehaviour {
     float speed = .5f;
