@@ -1,3 +1,3 @@
 automoseal
 
-# AutoMoSeal
+# AutomoSeal
